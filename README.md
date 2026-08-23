@@ -6,6 +6,11 @@ The project combines data cleaning, exploratory analysis, feature engineering, m
 
 ---
 
+## Power BI Dashboard
+
+![NYC Taxi Demand Dashboard](screenshots/Dashboard_output.jpg)
+
+
 ## Project Overview
 
 Taxi demand varies significantly by hour, day, and pickup location. Understanding these patterns can help identify high-demand periods and locations.
